@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Sergey Loskot](https://up.htmlacademy.ru/htmlcss/37/user/2091809).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Осадченко](https://htmlacademy.ru/profile/dimaos).
 
 ---
 
